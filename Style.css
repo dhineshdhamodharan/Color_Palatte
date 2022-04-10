@@ -1,0 +1,7 @@
+#container > div { 
+width: 100px;
+  height: 100px;
+  border: solid 1px rgb(253, 252, 252);
+  display: inline-block;
+  box-sizing: border-box;  
+}
